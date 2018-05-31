@@ -1,0 +1,7 @@
+C:\GitRepos\Keybugger\Keybugger\Keybugger\bin\Lib\LogitechLedEnginesWrapper.dll
+C:\GitRepos\Keybugger\Keybugger\Keybugger\bin\Keybugger.exe.config
+C:\GitRepos\Keybugger\Keybugger\Keybugger\bin\Keybugger.exe
+C:\GitRepos\Keybugger\Keybugger\Keybugger\bin\Keybugger.pdb
+C:\GitRepos\Keybugger\Keybugger\Keybugger\obj\Debug\Keybugger.csproj.CoreCompileInputs.cache
+C:\GitRepos\Keybugger\Keybugger\Keybugger\obj\Debug\Keybugger.exe
+C:\GitRepos\Keybugger\Keybugger\Keybugger\obj\Debug\Keybugger.pdb
