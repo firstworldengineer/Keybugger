@@ -5,3 +5,11 @@ C:\GitRepos\Keybugger\Keybugger\Keybugger\bin\x64\Debug\Keybugger.pdb
 C:\GitRepos\Keybugger\Keybugger\Keybugger\obj\x64\Debug\Keybugger.csproj.CoreCompileInputs.cache
 C:\GitRepos\Keybugger\Keybugger\Keybugger\obj\x64\Debug\Keybugger.exe
 C:\GitRepos\Keybugger\Keybugger\Keybugger\obj\x64\Debug\Keybugger.pdb
+C:\GitRepos\Keybugger\Keybugger\bin\x64\Debug\Lib\LogitechLedEnginesWrapper.dll
+C:\GitRepos\Keybugger\Keybugger\bin\x64\Debug\Keybugger.exe.config
+C:\GitRepos\Keybugger\Keybugger\bin\x64\Debug\Keybugger.exe
+C:\GitRepos\Keybugger\Keybugger\bin\x64\Debug\Keybugger.pdb
+C:\GitRepos\Keybugger\Keybugger\obj\x64\Debug\Keybugger.csprojAssemblyReference.cache
+C:\GitRepos\Keybugger\Keybugger\obj\x64\Debug\Keybugger.csproj.CoreCompileInputs.cache
+C:\GitRepos\Keybugger\Keybugger\obj\x64\Debug\Keybugger.exe
+C:\GitRepos\Keybugger\Keybugger\obj\x64\Debug\Keybugger.pdb
